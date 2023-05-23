@@ -10,4 +10,4 @@ PROBLEMA: Chiedere all’utente la sua email, controllare che sia nella lista di
  5.1 SE TRUE
   -LA MAIL E' STATA TROVATA
  5.2 ALTRIMENTI
-  -LA MAIL NON E' STATA TROVATA      
+  -LA MAIL NON E' STATA TROVATA   
